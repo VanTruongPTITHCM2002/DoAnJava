@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T14:32:56.115Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="HEfQ1Y6_t1aSWFygpmJS" version="20.8.22" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-01T22:01:29.301Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="6DHLg8wM73ZMj3jhy_RH" version="20.8.22" type="github" pages="3">
   <diagram id="kJjWGhN-zWkCBDKJ8oZV" name="Trang-1">
     <mxGraphModel dx="794" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -378,7 +378,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Camf2X60WpY7nccsOzLy" name="Trang-2">
-    <mxGraphModel dx="808" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1878" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -639,7 +639,7 @@
           <mxGeometry x="730" y="730" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2bsPe0TEHFQTRlaGzH19-5" value="THONGBAO" style="whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="320" y="840" width="100" height="40" as="geometry" />
+          <mxGeometry x="670" y="810" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2bsPe0TEHFQTRlaGzH19-6" value="LUONG" style="whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="900" y="880" width="100" height="40" as="geometry" />
@@ -702,6 +702,11 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="260" y="760" as="sourcePoint" />
             <mxPoint x="360" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="900" y="410" />
+              <mxPoint x="900" y="330" />
+              <mxPoint x="400" y="330" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2bsPe0TEHFQTRlaGzH19-27" value="" style="fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;startSize=8;endSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="2bsPe0TEHFQTRlaGzH19-25" target="2bsPe0TEHFQTRlaGzH19-2">
@@ -747,7 +752,7 @@
         <mxCell id="2bsPe0TEHFQTRlaGzH19-43" value="CO" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="570" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2bsPe0TEHFQTRlaGzH19-44" value="" style="fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="2bsPe0TEHFQTRlaGzH19-23" target="2bsPe0TEHFQTRlaGzH19-5">
+        <mxCell id="2bsPe0TEHFQTRlaGzH19-44" value="" style="fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="2bsPe0TEHFQTRlaGzH19-23" target="2bsPe0TEHFQTRlaGzH19-5">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="260" y="760" as="sourcePoint" />
             <mxPoint x="480" y="1000" as="targetPoint" />
