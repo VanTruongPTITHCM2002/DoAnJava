@@ -672,7 +672,7 @@
             <mxPoint x="-154" y="-217" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ckR1X3EV3BFfvcN3edzd-10" value="Quản lý tài khoản cá nhân" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ckR1X3EV3BFfvcN3edzd-10" value="Đổi mật khẩu" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-324.5" y="-203" width="134.5" height="63" as="geometry" />
         </mxCell>
         <mxCell id="ckR1X3EV3BFfvcN3edzd-13" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.027;entryY=0.405;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ckR1X3EV3BFfvcN3edzd-1" target="ckR1X3EV3BFfvcN3edzd-10" edge="1">
