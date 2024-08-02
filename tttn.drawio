@@ -921,6 +921,24 @@
             <mxPoint x="657.3235294117646" y="1755" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9LgYSw0qzRtpUYdUVuX2-36" value="Trả thành công" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="969" y="2232" as="sourcePoint" />
+            <mxPoint x="867.3235294117649" y="2232" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9LgYSw0qzRtpUYdUVuX2-37" value="Trả thành công" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="867.5" y="2254" as="sourcePoint" />
+            <mxPoint x="748" y="2254" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9LgYSw0qzRtpUYdUVuX2-38" value="Thông báo xóa thành công" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="745.34" y="2282" as="sourcePoint" />
+            <mxPoint x="617.6635294117647" y="2282" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
