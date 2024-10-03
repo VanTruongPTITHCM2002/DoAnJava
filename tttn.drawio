@@ -2435,24 +2435,6 @@
             <mxPoint x="470" y="222" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ubPdOSPQCImqJmyx25F6-1" value="Degree" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="408" y="476" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ubPdOSPQCImqJmyx25F6-2" value="CO" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="412" y="341" width="96" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="ubPdOSPQCImqJmyx25F6-5" value="" style="fontSize=12;html=1;endArrow=ERmandOne;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ubPdOSPQCImqJmyx25F6-2" target="ubPdOSPQCImqJmyx25F6-1" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="280" y="598" as="sourcePoint" />
-            <mxPoint x="380" y="498" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ubPdOSPQCImqJmyx25F6-7" value="" style="fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.401;entryY=1.063;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ubPdOSPQCImqJmyx25F6-2" target="ywtn9SBlBVrEBoDn3AKO-1" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="452" y="540" as="sourcePoint" />
-            <mxPoint x="507" y="527" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Ga6PMKZ3frOWU2c8U5zc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="64.4762050083707" y="-41.42857142857133" as="targetPoint" />
