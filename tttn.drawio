@@ -2462,8 +2462,8 @@
             <mxPoint x="58" y="-42.000000000000114" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSku12-O2kQ9RD_in_Di-3" value="AttendanceExplain" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="416" y="-124" width="110" height="50" as="geometry" />
+        <mxCell id="dSku12-O2kQ9RD_in_Di-3" value="AttendanceJustification" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="407.5" y="-124" width="127" height="48" as="geometry" />
         </mxCell>
         <mxCell id="dSku12-O2kQ9RD_in_Di-4" value="CO" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="416" y="-47" width="110" height="53" as="geometry" />
