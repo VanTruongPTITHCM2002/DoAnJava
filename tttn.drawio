@@ -2328,6 +2328,24 @@
             <mxPoint x="1018" y="761" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="nJ9XLYQsXC5La-Y0T_wF-22" value="Quản trị" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="853" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nJ9XLYQsXC5La-Y0T_wF-23" value="Trưởng phòng nhân sự" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="835" y="995" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nJ9XLYQsXC5La-Y0T_wF-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nJ9XLYQsXC5La-Y0T_wF-22" target="Ak2FNDYXj5MgXc6j5P-1-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="893" y="924" as="sourcePoint" />
+            <mxPoint x="970" y="853" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nJ9XLYQsXC5La-Y0T_wF-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Ak2FNDYXj5MgXc6j5P-1-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="867" y="1027" as="sourcePoint" />
+            <mxPoint x="970" y="576" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
