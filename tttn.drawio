@@ -2156,7 +2156,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wFY0wiEXY72TRKWGFV0K-14" value="Hệ thống trả về danh sách nhân viên" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-726" y="1135" width="144" height="110" as="geometry" />
+          <mxGeometry x="-960" y="1074" width="144" height="110" as="geometry" />
         </mxCell>
         <mxCell id="TaCXY_xiTR9abLaawcX8-1" value="Xem danh sách giải trình" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="986" y="1229" width="140" height="70" as="geometry" />
