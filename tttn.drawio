@@ -2529,7 +2529,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hR1ifxgwkSyQT71KzXFf" name="Trang-4">
-    <mxGraphModel dx="1207" dy="535" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2052" dy="910" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2567,7 +2567,7 @@
           <mxGeometry x="260" y="30" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e4s2l3k4nFX_8PjuAxXI-8" value="Account Service" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="457" y="21" width="80" height="80" as="geometry" />
+          <mxGeometry x="440" y="5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e4s2l3k4nFX_8PjuAxXI-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.383;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.392;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="e4s2l3k4nFX_8PjuAxXI-3" target="e4s2l3k4nFX_8PjuAxXI-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2576,10 +2576,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e4s2l3k4nFX_8PjuAxXI-10" value="Employee Service" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="457" y="128" width="80" height="80" as="geometry" />
+          <mxGeometry x="440" y="128" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e4s2l3k4nFX_8PjuAxXI-12" value="Attendance Service" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="457" y="241" width="80" height="80" as="geometry" />
+          <mxGeometry x="444" y="233" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e4s2l3k4nFX_8PjuAxXI-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.017;entryY=0.342;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="e4s2l3k4nFX_8PjuAxXI-3" target="e4s2l3k4nFX_8PjuAxXI-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2594,16 +2594,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e4s2l3k4nFX_8PjuAxXI-15" value="Payroll Service" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="457" y="364" width="80" height="80" as="geometry" />
+          <mxGeometry x="444" y="345" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OmmVPn57rZ-hJyRN5nms-1" value="WorkSchedule&lt;div&gt;Service&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="460" y="475" width="80" height="80" as="geometry" />
+          <mxGeometry x="444" y="461" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OmmVPn57rZ-hJyRN5nms-2" value="RewardPunish&lt;div&gt;Service&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="460" y="583" width="80" height="80" as="geometry" />
+          <mxGeometry x="448" y="582" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OmmVPn57rZ-hJyRN5nms-3" value="Contract Service" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="464" y="702" width="80" height="80" as="geometry" />
+          <mxGeometry x="448" y="699" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OmmVPn57rZ-hJyRN5nms-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="e4s2l3k4nFX_8PjuAxXI-3" target="OmmVPn57rZ-hJyRN5nms-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2623,7 +2623,7 @@
             <mxPoint x="396" y="478" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OmmVPn57rZ-hJyRN5nms-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" target="OmmVPn57rZ-hJyRN5nms-14" edge="1">
+        <mxCell id="OmmVPn57rZ-hJyRN5nms-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="OmmVPn57rZ-hJyRN5nms-14" edge="1" source="e4s2l3k4nFX_8PjuAxXI-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="537" y="62" as="sourcePoint" />
             <mxPoint x="697" y="62" as="targetPoint" />
@@ -2666,25 +2666,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OmmVPn57rZ-hJyRN5nms-14" value="Account Service" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="667" y="22" width="60" height="80" as="geometry" />
+          <mxGeometry x="595" y="5" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OmmVPn57rZ-hJyRN5nms-15" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Employee Service&lt;/span&gt;&#xa;&#xa;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="658" y="128" width="60" height="80" as="geometry" />
+          <mxGeometry x="595" y="128" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OmmVPn57rZ-hJyRN5nms-16" value="Attendance Service" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="655" y="241" width="60" height="80" as="geometry" />
+          <mxGeometry x="595" y="233" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OmmVPn57rZ-hJyRN5nms-17" value="Payroll Service" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="647" y="363" width="60" height="80" as="geometry" />
+          <mxGeometry x="595" y="345" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OmmVPn57rZ-hJyRN5nms-18" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;WorkSchedule&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Service&lt;/div&gt;&#xa;&#xa;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="655" y="474" width="84" height="95" as="geometry" />
+          <mxGeometry x="583" y="453.5" width="84" height="95" as="geometry" />
         </mxCell>
         <mxCell id="OmmVPn57rZ-hJyRN5nms-19" value="RewardPunish&lt;div&gt;Service&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="659" y="579" width="84" height="104" as="geometry" />
+          <mxGeometry x="595" y="568" width="84" height="104" as="geometry" />
         </mxCell>
         <mxCell id="OmmVPn57rZ-hJyRN5nms-20" value="Contract Service" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="662" y="702" width="60" height="80" as="geometry" />
+          <mxGeometry x="607" y="696" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2ri4f5DZjR02zqgcB90U-1" value="Discovery Server" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="182" y="330" width="80" height="80" as="geometry" />
@@ -2699,6 +2699,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="323" y="381" as="sourcePoint" />
             <mxPoint x="254" y="462" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ri4f5DZjR02zqgcB90U-4" value="AI Service" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="448" y="798" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2ri4f5DZjR02zqgcB90U-5" value="AI Service" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="609" y="800" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2ri4f5DZjR02zqgcB90U-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2ri4f5DZjR02zqgcB90U-4" target="2ri4f5DZjR02zqgcB90U-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="538" y="749" as="sourcePoint" />
+            <mxPoint x="617" y="747" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ri4f5DZjR02zqgcB90U-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e4s2l3k4nFX_8PjuAxXI-3" target="2ri4f5DZjR02zqgcB90U-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="260" as="sourcePoint" />
+            <mxPoint x="458" y="729" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
